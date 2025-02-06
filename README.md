@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I'm a passionate data science and artificial intel
 - [LinkedIn](https://www.linkedin.com/in/akshay-p-paunikar/)
 - [Instagram](https://www.instagram.com/akshaypaunikar/)
 - [YouTube](https://www.youtube.com/@OneStepDataScience-AI)
-- [YouTube](https://www.youtube.com/@AkshayPaunikarMusic)
-- [Dev.to](https://dev.to/akshay_paunikar)
+- [YouTube - 2](https://www.youtube.com/@AkshayPaunikarMusic)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 
