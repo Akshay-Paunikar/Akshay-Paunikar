@@ -1,18 +1,44 @@
-<h2 align="left">Hi 👋! My name is Akshay Paunikar and I'm a Data Science Enthusiast on my journey to explore the field of Data Science and Artificial Intelligence</h2>
+# Hi there, I'm Akshay Paunikar 👋
 
-###
+Welcome to my GitHub profile! I'm a passionate data science and artificial intelligence learner with a keen interest in open-source projects and innovative technologies. Here's a little more about me:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-Paunikar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 About Me
 
-###
+- **🔭 I’m currently working on:** Various data science projects and improving my skills in machine learning and AI.
+- **🌱 I’m currently learning:** Advanced concepts in deep learning and natural language processing.
+- **👯 I’m looking to collaborate on:** Open-source AI and data science projects that can make a difference in the community.
+- **🤔 I’m looking for help with:** Contributing to large-scale AI open-source repositories.
+- **💬 Ask me about:** Python, machine learning, and data analysis.
+- **📫 How to reach me:** You can reach me via [email](mailto:akshay.paunikar29@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-paunikar).
+- **⚡ Fun fact:** I love playing chess and enjoy hiking during my free time.
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCQW3Iw5jrPOvmMpYnGbttRw"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"/></a>
-  <a href="https://www.instagram.com/akshaypaunikar"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
-  <a href="mailto: akshayakki29@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
-  <a href="https://www.linkedin.com/in/akshay-p-paunikar/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🛠️ Languages and Tools
 
-###
+- **Programming Languages:** Python
+- **Data Science Tools:** Jupyter, Pandas, NumPy, Scikit-Learn, SciPy
+- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, OpenCV
+- **Databases:** MySQL
+- **Visualization Tools:** Matplotlib, Seaborn, Plotly
+- **Cloud Providers:** GCP
+
+## 📈 GitHub Stats
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Paunikar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Paunikar&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/akshay-p-paunikar/)
+- [Instagram](https://www.instagram.com/akshaypaunikar/)
+- [YouTube](https://www.youtube.com/@OneStepDataScience-AI)
+- [YouTube](https://www.youtube.com/@AkshayPaunikarMusic)
+- [Dev.to](https://dev.to/akshay_paunikar)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Akshay-Paunikar/count.svg" />
+</p>
