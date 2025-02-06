@@ -10,16 +10,17 @@ Welcome to my GitHub profile! I'm a passionate data science and artificial intel
 - **🤔 I’m looking for help with:** Contributing to large-scale AI open-source repositories.
 - **💬 Ask me about:** Python, machine learning, and data analysis.
 - **📫 How to reach me:** You can reach me via [email](mailto:akshay.paunikar29@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-paunikar).
-- **⚡ Fun fact:** I love playing chess and enjoy hiking during my free time.
+- **⚡ Fun fact:** I love playing Acoustic Guitar and enjoy watching movies/web-series during my free time.
 
 ## 🛠️ Languages and Tools
 
-- **Programming Languages:** Python
-- **Data Science Tools:** Jupyter, Pandas, NumPy, Scikit-Learn, SciPy
-- **Machine Learning & AI:** TensorFlow, PyTorch, Keras, OpenCV
+- **Programming Languages:** Python: NumPy, Pandas, scikit-learn, SciPy, Matplotlib, Seaborn)
+- **Data Science Tools:** Statistics: Descriptive and Inferential Statistics, Hypothesis Testing, Time Series Analysis, Probability Theory. 
+- **Machine Learning & AI:**  Regression, Classification, Clustering, PCA, ANN, CNN, RNN, LSTM RNN, NLP, Web Scraping, TensorFlow, PyTorch, Keras, OpenCV
 - **Databases:** MySQL
-- **Visualization Tools:** Matplotlib, Seaborn, Plotly
+- **Visualization Tools:** Power BI, Tableau, Microsoft Excel.
 - **Cloud Providers:** GCP
+- **Core Skills:** Data Analysis, Data Visualization, SQL and Database Querying, Data Processing, Data Validation, Business Intelligence. 
 
 ## 📈 GitHub Stats
 
@@ -31,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate data science and artificial intel
 - [LinkedIn](https://www.linkedin.com/in/akshay-p-paunikar/)
 - [Instagram](https://www.instagram.com/akshaypaunikar/)
 - [GitHub](https://github.com/Akshay-Paunikar/)
+- [Tableau](https://public.tableau.com/app/profile/akshay.paunikar/)
 - [YouTube](https://www.youtube.com/@OneStepDataScience-AI)
 - [YouTube-2](https://www.youtube.com/@AkshayPaunikarMusic)
 
