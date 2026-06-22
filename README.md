@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate data science and artificial intel
 - **👯 I’m looking to collaborate on:** Open-source AI and data science projects that can make a difference in the community.
 - **🤔 I’m looking for help with:** Contributing to large-scale AI open-source repositories.
 - **💬 Ask me about:** Python, machine learning, and data analysis.
-- **📫 How to reach me:** You can reach me via [email](mailto:akshay.paunikar29@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-paunikar).
+- **📫 How to reach me:** You can reach me via [email](mailto:akshay.paunikar29@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akshaypaunikar/).
 - **⚡ Fun fact:** I love playing Acoustic Guitar and enjoy watching movies/web-series during my free time.
 
 ## 🛠️ Languages and Tools
@@ -29,12 +29,12 @@ Welcome to my GitHub profile! I'm a passionate data science and artificial intel
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/akshay-p-paunikar/)
+- [LinkedIn](https://www.linkedin.com/in/akshaypaunikar/)
 - [Instagram](https://www.instagram.com/akshaypaunikar/)
 - [GitHub](https://github.com/Akshay-Paunikar/)
 - [Tableau](https://public.tableau.com/app/profile/akshay.paunikar/)
-- [YouTube](https://www.youtube.com/@OneStepDataScience-AI)
-- [YouTube-2](https://www.youtube.com/@AkshayPaunikarMusic)
+- [YouTube](https://www.youtube.com/@AkshayPaunikarCoding)
+- [YouTube-2](https://www.youtube.com/@akshayguitarstudio)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 
